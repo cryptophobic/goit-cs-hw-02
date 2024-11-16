@@ -13,5 +13,6 @@ https://chatgpt.com не доступний
 ```
 
 ## Завдання 2
-https://github.com/user-attachments/assets/f8aa9cc5-b2ed-4df3-a630-2d72aa5e1a1f
+https://github.com/user-attachments/assets/7c83f785-fcc2-4b91-8afe-e17d2a4c6902
+
 
